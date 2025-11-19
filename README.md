@@ -1,26 +1,51 @@
 # 📊 Amal Remesh — Data Analytics Portfolio
 
-Hi — I'm Amal. I build dashboards, clean data, and turn numbers into insights using Excel, SQL, Python, Power BI and Tableau.
+Hi, I’m Amal Remesh, a passionate Data Analyst. I use data to solve real-world problems, build dashboards, and create predictive models using Excel, Python, SQL, Power BI, and Machine Learning.
 
-## 🔍 Projects
-1. Potato Leaf Disease Detection — Machine Learning (Python, TensorFlow)  
-2. Retail Sales Dashboard — Power BI / Excel (coming soon)  
-3. Customer Insights Analysis — Python (coming soon)
+---
 
-## 📂 Repo structure
+## 🚀 My Projects
+
+### 1. Potato Leaf Disease Detection  
+- Tools: Python, TensorFlow / Keras  
+- Category: Machine Learning  
+- Description: Built a convolutional neural network to classify healthy vs diseased potato leaves. Includes data preprocessing, augmentation, training, and evaluation.  
+- Link: [Potato Leaf Detection](./MachineLearning/Potato_Leaf_Detection)
+
+### 2. Retail Sales Dashboard *(Coming Soon)*  
+- Will showcase Excel / Power BI skills, interactive dashboards, and KPIs.
+
+### 3. Customer Insights Analysis *(Coming Soon)*  
+- A Python-based data cleaning and visualization project to derive insights from customer behavior.
+
+---
+
+## 🔧 Skills
+
+| Area | Tools / Technologies |
+|---|---|
+| Data Cleaning | Excel, Python (Pandas) |
+| Visualization | Power BI, Tableau |
+| Databases | SQL |
+| Machine Learning | TensorFlow, Keras (CNN) |
+
+---
+
+## 📂 Repository Structure
 Portfolio/
-│── MachineLearning/Potato_Leaf_Detection/
+│── MachineLearning/
+│ └── Potato_Leaf_Detection/
+│ ├── potato_project.ipynb
+│ ├── report.pdf
+│ └── README.md
 │── PowerBI_Projects/
-│── SQL_Queries/
 │── Excel_Dashboards/
+│── SQL_Queries/
 │── README.md
+---
 
-## 🚀 Skills
-- Data cleaning: Excel, Python (Pandas)  
-- Visualization: Power BI, Tableau  
-- Databases: SQL  
-- ML: TensorFlow, Keras (basic)
+## 📫 Let’s Connect
 
-## 📫 Contact
-📧 amalremesh6@gmail.com  
-LinkedIn: (add your LinkedIn link)
+- LinkedIn: [Your LinkedIn URL]  
+- Email: amalremesh6@gmail.com  
+- Resume: (You can link Google Drive / PDF here if you want)
